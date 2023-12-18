@@ -1,0 +1,1 @@
+add_library(Hamming Parser.cpp Parser.h HammingCode.cpp HammingCode.h Functions.cpp Functions.h)
